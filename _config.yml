@@ -1,5 +1,13 @@
-title: Christiana's portfolio
-#logo:
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
+
+---
